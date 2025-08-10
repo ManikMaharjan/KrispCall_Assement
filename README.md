@@ -61,11 +61,7 @@ Focus on Usage-Based top performers — these are where customers are most activ
 Look at Position-Based leaders — they often influence both acquisition and retention.
 4.	For data & operations:
 Investigate the “No Usage” and “No Integration” buckets — find out if it’s a tracking issue or a customer problem.
- 
-Things to keep in mind
-•	The SMS-to-seconds conversion (5 seconds per segment) is just an estimate. Changing it could shift results.
-•	Missing disconnect events might make some platforms look like they’re connected longer than they really are.
-•	Some data cleaning (like fixing email mismatches) is still important for future runs.
+
  
 Files produced
 •	first_touch_attribution.csv – Revenue by platform under the first-touch model.
