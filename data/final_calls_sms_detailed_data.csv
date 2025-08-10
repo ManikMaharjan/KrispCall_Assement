@@ -1,0 +1,1573 @@
+event,time,Cost,Duration,Email,Platform,Workspace,Owner,Segments
+Outbound SMS,1746244800,0.046275,,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,1
+Outbound Calls,1746331200,0.599433,431.0 seconds,user48a@growthcompany1.com,zoho,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1746331200,0.099712,,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,4
+Outbound Calls,1746590400,0.502937,264.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1746849600,0.352794,332.0 seconds,user31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1746936000,1.843816,510.0 seconds,user48d@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1747022400,0.450074,205.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1747195200,0.492139,260.0 seconds,owner1@soloconsultant1.com,mobile,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound SMS,1747195200,0.090014,,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,2
+Outbound Calls,1747281600,0.523306,125.0 seconds,user48g@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1747281600,0.708277,171.0 seconds,user48g@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1747368000,0.745409,150.0 seconds,user40a@threepersonteam1.com,freshsales,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound SMS,1747368000,0.02622,,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound SMS,1747368000,0.06602,,user49d@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,3
+Outbound Calls,1747540800,0.37656,126.0 seconds,user48d@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1747540800,0.12543,,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound Calls,1747627200,1.511911,306.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1747627200,0.873168,363.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1747627200,0.088569,,user39b@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,2
+Outbound SMS,1747713600,0.043002,,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound SMS,1747713600,0.048694,,user48g@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound Calls,1747800000,1.841786,566.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1747800000,2.126938,436.0 seconds,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1747800000,1.939649,542.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1747800000,0.026496,,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,1
+Outbound Calls,1747886400,1.205296,425.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1747886400,0.472476,253.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1747886400,2.122592,521.0 seconds,user49c@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1747972800,1.138936,349.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1748059200,0.822138,227.0 seconds,owner1@soloconsultant1.com,mobile,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1748145600,0.08016,29.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound SMS,1748145600,0.125944,,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,3
+Outbound Calls,1748232000,0.69015,161.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748232000,2.856521,596.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748232000,1.314966,555.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748232000,1.274712,581.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748232000,0.887052,224.0 seconds,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1748232000,0.798819,184.0 seconds,user48d@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1748318400,0.893374,505.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748318400,0.834933,222.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748318400,0.825235,220.0 seconds,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1748318400,0.513484,130.0 seconds,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1748318400,0.037526,,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1748404800,1.625184,432.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748404800,0.279086,73.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748404800,1.200002,501.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748404800,0.401295,150.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1748404800,0.912835,234.0 seconds,user48a@growthcompany1.com,zoho,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1748404800,0.092811,,user47c@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound Calls,1748491200,1.367987,281.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748491200,1.343316,584.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748491200,0.452538,256.0 seconds,user31@startupduo1.com,monday,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1748491200,0.930934,391.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1748491200,0.047017,,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1748577600,1.374,548.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748577600,1.769233,414.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748577600,1.709358,364.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748577600,0.927974,500.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748577600,1.206953,279.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1748577600,0.157723,43.0 seconds,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1748577600,0.663774,417.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1748577600,0.958487,337.0 seconds,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1748664000,1.048485,584.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1748664000,0.206714,62.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748664000,0.452199,304.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748664000,0.358658,307.0 seconds,owner26@soloentrepreneur3.com,web,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748664000,2.214041,585.0 seconds,owner26@soloentrepreneur3.com,mobile,SoloEntrepreneur3,owner26@soloentrepreneur3.com,
+Outbound Calls,1748664000,0.215221,149.0 seconds,owner49@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1748750400,2.522463,558.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1748750400,1.006494,351.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1748750400,2.207143,543.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1748750400,1.428478,394.0 seconds,user48a@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1748836800,1.637674,502.0 seconds,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1748923200,0.727374,325.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1749009600,0.259626,163.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1749009600,1.277062,353.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1749009600,1.387678,324.0 seconds,user48d@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1749009600,0.096621,,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,3
+Outbound SMS,1749096000,0.016654,,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,1
+Outbound Calls,1749182400,1.508174,377.0 seconds,user40b@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1749182400,0.72116,179.0 seconds,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1749268800,1.608528,544.0 seconds,owner49@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1749355200,0.822493,455.0 seconds,owner39@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1749355200,1.728564,424.0 seconds,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1749355200,2.07371,517.0 seconds,owner48@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1749355200,1.036828,549.0 seconds,user49c@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1749355200,0.104131,,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,4
+Outbound Calls,1749614400,1.837939,533.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1749700800,0.705248,411.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1749787200,0.012171,,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,1
+Outbound SMS,1749787200,0.03569,,owner48@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1749873600,0.270411,80.0 seconds,owner4@personalbrand1.com,web,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1749873600,0.586666,311.0 seconds,owner9@soloventure1.com,web,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1749873600,0.356239,97.0 seconds,owner39@triostartup1.com,pipedrive,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1749873600,0.055497,29.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1749873600,0.900525,598.0 seconds,user49c@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1749873600,0.654214,235.0 seconds,user49c@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1749873600,0.07708,,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,4
+Outbound Calls,1749960000,0.431028,310.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1749960000,1.775434,394.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound SMS,1749960000,0.077376,,user48f@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound Calls,1750046400,2.221924,599.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1750046400,0.360918,237.0 seconds,owner37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1750046400,1.258955,328.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1750132800,0.219854,199.0 seconds,user46a@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1750132800,0.028082,,user40a@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,1
+Outbound SMS,1750219200,0.083141,,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1750305600,0.261428,234.0 seconds,user37@smallteam2.com,mobile,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1750305600,0.733842,208.0 seconds,owner49@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1750305600,0.115181,,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,3
+Outbound SMS,1750305600,0.187266,,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1750392000,0.827728,199.0 seconds,user49a@scalingbusiness1.com,airtable,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1750392000,0.059139,,user48c@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound SMS,1750478400,0.089315,,owner47@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound Calls,1750564800,2.273486,458.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1750564800,0.670713,217.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1750651200,0.512146,312.0 seconds,user40b@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1750651200,0.501943,151.0 seconds,user46a@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1750651200,0.045373,13.0 seconds,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1750651200,1.10458,343.0 seconds,owner47@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1750651200,0.494548,101.0 seconds,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1750737600,0.193345,88.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1750737600,0.853348,318.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1750737600,0.698474,153.0 seconds,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound SMS,1750737600,0.069505,,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,3
+Outbound SMS,1750737600,0.025767,,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1750824000,0.884459,181.0 seconds,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1750824000,1.068597,294.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1750824000,0.059166,,user40a@threepersonteam1.com,freshsales,ThreePersonTeam1,owner40@threepersonteam1.com,2
+Outbound SMS,1750824000,0.079284,,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound SMS,1750824000,0.087669,,user50a@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound SMS,1750824000,0.086955,,user50d@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1750910400,0.395998,303.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1750910400,0.642752,472.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1750910400,2.109834,580.0 seconds,user50d@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1750910400,0.060246,,user47c@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound SMS,1750910400,0.032364,,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1750996800,0.488045,115.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1750996800,0.361717,173.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1750996800,0.021594,,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,2
+Outbound SMS,1750996800,0.022646,,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,2
+Outbound SMS,1750996800,0.070363,,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,2
+Outbound Calls,1751083200,1.392768,451.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1751169600,0.84036,256.0 seconds,owner21@soloconsultant3.com,mobile,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1751169600,1.827039,440.0 seconds,user40a@threepersonteam1.com,freshsales,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1751169600,0.494791,125.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1751169600,0.970447,347.0 seconds,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1751169600,0.274718,167.0 seconds,user49c@scalingbusiness1.com,monday,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1751169600,2.33758,521.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751256000,1.35329,482.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1751256000,0.058687,29.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1751256000,1.445351,573.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1751256000,0.126496,88.0 seconds,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1751342400,1.681014,553.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1751342400,0.225259,197.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1751342400,0.182618,,user48g@growthcompany1.com,monday,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound SMS,1751342400,0.063497,,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1751428800,1.036493,259.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1751428800,0.977317,212.0 seconds,owner37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1751428800,1.127518,331.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1751428800,0.019782,,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,1
+Outbound Calls,1751515200,0.339919,157.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1751515200,2.073361,573.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1751515200,1.184365,317.0 seconds,user31@startupduo1.com,zoho,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1751515200,1.254659,337.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1751515200,1.132601,328.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1751515200,1.09153,383.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751601600,0.94226,377.0 seconds,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1751601600,0.901814,199.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1751601600,1.018298,301.0 seconds,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1751601600,0.893263,432.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751601600,1.408315,382.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751688000,1.604196,483.0 seconds,owner19@soloventure2.com,activecampaign,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1751688000,1.001122,327.0 seconds,owner22@freelanceexpert3.com,mobile,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1751688000,0.127663,104.0 seconds,user48a@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1751688000,0.180867,37.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751774400,1.322406,281.0 seconds,owner4@personalbrand1.com,mobile,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1751774400,1.972635,482.0 seconds,user48a@growthcompany1.com,zoho,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1751774400,0.019747,,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,1
+Outbound Calls,1751860800,1.51687,304.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1751860800,0.432893,289.0 seconds,owner22@freelanceexpert3.com,mobile,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1751860800,0.215225,59.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1751860800,0.549295,232.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1751860800,0.530361,192.0 seconds,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1751860800,0.675884,144.0 seconds,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1751860800,0.626429,304.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1751860800,0.081949,,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1752033600,1.418015,286.0 seconds,owner1@soloconsultant1.com,mobile,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1752033600,0.717765,546.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1752033600,1.465496,376.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752033600,0.753389,515.0 seconds,user50b@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1752033600,0.751082,490.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1752033600,0.036511,,owner15@selfemployed2.com,close,SelfEmployed2,owner15@selfemployed2.com,1
+Outbound SMS,1752033600,0.034332,,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,2
+Outbound SMS,1752033600,0.14738,,user46e@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,4
+Outbound SMS,1752033600,0.039968,,user50g@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1752120000,2.056899,448.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1752120000,1.073113,269.0 seconds,owner21@soloconsultant3.com,intercom,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1752120000,1.224112,381.0 seconds,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1752120000,0.22104,49.0 seconds,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1752120000,0.48947,192.0 seconds,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1752120000,0.312115,295.0 seconds,owner49@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1752206400,0.692007,341.0 seconds,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1752206400,0.727408,435.0 seconds,user48e@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1752206400,0.297457,153.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1752206400,0.04514,,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,1
+Outbound SMS,1752206400,0.033118,,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound SMS,1752206400,0.062804,,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1752292800,0.848919,253.0 seconds,owner16@soloentrepreneur2.com,mobile,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1752292800,0.551395,139.0 seconds,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1752292800,1.003981,277.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1752292800,0.402425,92.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752292800,1.895761,481.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752292800,1.585779,511.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752379200,1.609934,333.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1752379200,0.238465,66.0 seconds,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1752379200,0.397542,121.0 seconds,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1752379200,0.511792,433.0 seconds,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1752379200,0.838019,277.0 seconds,user50g@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1752379200,0.154699,,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,4
+Outbound SMS,1752379200,0.146487,,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,3
+Outbound Calls,1752465600,0.786803,269.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752465600,1.831924,562.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752465600,1.759953,569.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1752552000,2.705467,562.0 seconds,owner2@freelanceexpert1.com,web,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1752552000,0.617288,194.0 seconds,owner22@freelanceexpert3.com,mobile,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1752552000,1.473546,526.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1752552000,0.862842,192.0 seconds,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1752552000,1.211411,460.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1752638400,2.112977,522.0 seconds,owner2@freelanceexpert1.com,mobile,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1752638400,1.299052,293.0 seconds,owner16@soloentrepreneur2.com,front,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1752638400,0.270665,188.0 seconds,owner16@soloentrepreneur2.com,front,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1752638400,1.83777,409.0 seconds,owner21@soloconsultant3.com,intercom,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1752638400,2.066561,454.0 seconds,user40b@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1752638400,0.237097,209.0 seconds,user43b@triostartup2.com,pipedrive,TrioStartup2,owner43@triostartup2.com,
+Outbound SMS,1752638400,0.075709,,owner16@soloentrepreneur2.com,mobile,SoloEntrepreneur2,owner16@soloentrepreneur2.com,3
+Outbound SMS,1752638400,0.031984,,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,1
+Outbound SMS,1752638400,0.040209,,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound SMS,1752638400,0.080254,,user49a@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound SMS,1752638400,0.040988,,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1752724800,0.908316,236.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1752724800,1.274496,274.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1752724800,0.197429,183.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1752724800,1.093115,261.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1752811200,0.656112,173.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1752811200,0.29352,266.0 seconds,owner11@soloconsultant2.com,freshsales,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1752811200,0.624244,141.0 seconds,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1752897600,1.295071,380.0 seconds,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1753070400,0.934617,312.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1753070400,1.903264,403.0 seconds,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1753070400,2.239694,585.0 seconds,user49c@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753070400,1.282901,334.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753070400,0.095336,,owner15@selfemployed2.com,close,SelfEmployed2,owner15@selfemployed2.com,3
+Outbound SMS,1753070400,0.150531,,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1753156800,0.786567,206.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1753156800,1.042629,425.0 seconds,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1753156800,1.069923,363.0 seconds,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1753156800,0.34491,195.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1753156800,0.3207,304.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1753156800,0.438582,111.0 seconds,user50c@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753156800,0.04433,,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,2
+Outbound SMS,1753156800,0.062911,,owner35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,2
+Outbound SMS,1753156800,0.07246,,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,2
+Outbound SMS,1753156800,0.047784,,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound SMS,1753156800,0.067647,,user50g@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1753243200,0.777457,222.0 seconds,owner11@soloconsultant2.com,freshsales,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1753243200,1.423247,472.0 seconds,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1753243200,1.74046,424.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1753243200,2.209625,545.0 seconds,owner50@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753243200,0.043193,,owner15@selfemployed2.com,close,SelfEmployed2,owner15@selfemployed2.com,1
+Outbound SMS,1753243200,0.040032,,owner35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,3
+Outbound Calls,1753329600,0.665884,147.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1753329600,0.360126,128.0 seconds,user35@duoventure1.com,mobile,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1753329600,0.344054,88.0 seconds,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1753329600,1.650482,520.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1753329600,0.158291,42.0 seconds,owner49@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753329600,0.320328,92.0 seconds,user49a@scalingbusiness1.com,activecampaign,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753329600,1.55625,439.0 seconds,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753329600,0.486446,324.0 seconds,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753329600,0.029611,,owner16@soloentrepreneur2.com,mobile,SoloEntrepreneur2,owner16@soloentrepreneur2.com,1
+Outbound SMS,1753329600,0.061329,,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,2
+Outbound SMS,1753329600,0.024437,,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound Calls,1753416000,1.305105,398.0 seconds,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1753416000,0.480636,161.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753416000,0.178651,120.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753416000,0.032529,,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,3
+Outbound SMS,1753416000,0.147135,,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1753502400,2.13195,484.0 seconds,user40a@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1753502400,0.582164,154.0 seconds,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1753502400,0.112364,64.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753502400,0.022884,,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,1
+Outbound SMS,1753502400,0.115148,,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,4
+Outbound SMS,1753502400,0.081569,,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound Calls,1753588800,2.195322,589.0 seconds,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1753588800,0.941395,417.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1753588800,0.616751,291.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound SMS,1753588800,0.105919,,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,4
+Outbound Calls,1753675200,1.642559,510.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1753675200,0.217874,75.0 seconds,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1753675200,0.213636,154.0 seconds,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1753675200,0.963038,243.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1753675200,0.068246,30.0 seconds,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1753675200,1.172375,574.0 seconds,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1753675200,1.262907,494.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1753675200,0.010877,,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,1
+Outbound SMS,1753675200,0.089363,,user50d@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1753761600,1.243521,356.0 seconds,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1753761600,1.979163,557.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1753761600,0.353423,156.0 seconds,user40a@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1753761600,0.9889,300.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1753761600,0.671729,160.0 seconds,user49c@scalingbusiness1.com,monday,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1753761600,0.010763,,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,1
+Outbound SMS,1753761600,0.049727,,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,2
+Outbound SMS,1753761600,0.01061,,user46e@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1753848000,1.551391,500.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1753848000,1.238191,568.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1753848000,0.693937,571.0 seconds,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1753848000,0.427545,285.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1753848000,2.545929,576.0 seconds,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1753848000,2.080062,513.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1753848000,0.029191,,owner49@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound Calls,1753934400,1.198141,543.0 seconds,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,
+Outbound Calls,1753934400,0.420244,147.0 seconds,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound SMS,1753934400,0.120888,,owner16@soloentrepreneur2.com,mobile,SoloEntrepreneur2,owner16@soloentrepreneur2.com,4
+Outbound SMS,1753934400,0.046969,,user50a@largerteam1.com,asana,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1754020800,0.64346,232.0 seconds,owner15@selfemployed2.com,mobile,SelfEmployed2,owner15@selfemployed2.com,
+Outbound Calls,1754020800,0.347942,287.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1754020800,0.049943,,owner16@soloentrepreneur2.com,web,SoloEntrepreneur2,owner16@soloentrepreneur2.com,1
+Outbound SMS,1754020800,0.063831,,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,4
+Outbound Calls,1754107200,2.09337,507.0 seconds,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1754193600,0.49873,354.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1754193600,0.429215,103.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1754280000,0.512179,433.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1754280000,0.737858,251.0 seconds,owner48@growthcompany1.com,asana,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1754280000,0.906332,459.0 seconds,user48e@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1754280000,1.011011,488.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1754280000,0.104872,,user43b@triostartup2.com,pipedrive,TrioStartup2,owner43@triostartup2.com,4
+Outbound Calls,1754366400,1.395015,401.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1754366400,0.551666,151.0 seconds,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1754366400,1.211675,304.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1754366400,0.511015,194.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1754366400,0.101742,,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,4
+Outbound Calls,1754452800,0.504877,123.0 seconds,owner21@soloconsultant3.com,mobile,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1754452800,0.826707,204.0 seconds,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1754452800,0.072416,19.0 seconds,user31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1754452800,0.52846,177.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1754452800,2.367532,504.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1754539200,0.442533,214.0 seconds,user41b@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1754539200,1.681039,477.0 seconds,owner45@growingstartup1.com,hubspot,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1754539200,1.744342,350.0 seconds,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1754539200,0.218242,182.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1754539200,0.088171,,user47c@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound SMS,1754539200,0.067597,,user50b@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1754625600,1.884699,495.0 seconds,user40b@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1754625600,0.438043,134.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1754625600,0.033532,,owner2@freelanceexpert1.com,mobile,FreelanceExpert1,owner2@freelanceexpert1.com,1
+Outbound Calls,1754712000,0.309037,116.0 seconds,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1754712000,1.110647,377.0 seconds,user48c@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1754712000,2.567552,537.0 seconds,user49a@scalingbusiness1.com,activecampaign,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1754712000,0.073648,,user50a@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound SMS,1754712000,0.086796,,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1754798400,2.812333,587.0 seconds,owner9@soloventure1.com,web,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1754798400,1.429861,512.0 seconds,owner9@soloventure1.com,monday,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1754798400,1.156936,282.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1754798400,0.490917,142.0 seconds,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1754798400,0.023425,,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,2
+Outbound Calls,1754884800,0.854617,186.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1754884800,0.488287,467.0 seconds,owner38@twopersoncorp2.com,monday,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1754884800,0.606308,557.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1754884800,0.013648,,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1754971200,1.924281,504.0 seconds,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1754971200,0.62508,326.0 seconds,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1754971200,0.570618,509.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1754971200,0.251065,102.0 seconds,user48c@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1754971200,0.050384,,owner48@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound Calls,1755057600,1.183984,280.0 seconds,owner1@soloconsultant1.com,mobile,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1755057600,1.095177,324.0 seconds,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1755057600,0.668012,279.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1755057600,0.345499,171.0 seconds,user35@duoventure1.com,mobile,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1755057600,0.772848,234.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1755057600,1.354277,412.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1755057600,0.663686,338.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1755144000,1.077471,220.0 seconds,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1755144000,2.091536,558.0 seconds,owner39@triostartup1.com,pipedrive,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755144000,1.311423,380.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755144000,0.066839,28.0 seconds,user46a@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1755144000,0.040747,,user40a@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,4
+Outbound SMS,1755144000,0.04279,,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,3
+Outbound SMS,1755144000,0.138212,,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,4
+Outbound SMS,1755144000,0.075295,,owner45@growingstartup1.com,slack,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound SMS,1755144000,0.015478,,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound Calls,1755230400,2.674645,546.0 seconds,owner21@soloconsultant3.com,close,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1755230400,0.662848,228.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1755230400,1.389499,349.0 seconds,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1755230400,0.604951,360.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1755230400,1.117669,508.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755230400,0.978713,230.0 seconds,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755230400,0.092738,61.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1755230400,1.795838,460.0 seconds,owner48@growthcompany1.com,asana,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1755230400,0.662997,306.0 seconds,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1755230400,0.132013,,owner34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,3
+Outbound SMS,1755230400,0.069981,,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,4
+Outbound Calls,1755316800,0.148647,87.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1755316800,1.082545,390.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1755316800,1.114917,405.0 seconds,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1755316800,1.721277,524.0 seconds,owner39@triostartup1.com,pipedrive,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755316800,0.898996,292.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755316800,1.154179,257.0 seconds,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755316800,0.941728,217.0 seconds,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755316800,1.528739,343.0 seconds,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1755316800,0.335676,189.0 seconds,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1755316800,0.253625,139.0 seconds,user48f@growthcompany1.com,freshsales,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1755316800,1.101432,521.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1755316800,0.011812,,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,1
+Outbound SMS,1755316800,0.108362,,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,3
+Outbound SMS,1755316800,0.073009,,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound Calls,1755403200,0.321285,156.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1755403200,1.979164,437.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1755403200,1.28863,426.0 seconds,owner44@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755403200,0.611183,204.0 seconds,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755403200,1.171347,571.0 seconds,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755403200,0.889394,361.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755403200,1.225249,378.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755403200,0.364387,317.0 seconds,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1755403200,1.50228,347.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1755403200,1.855148,372.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1755403200,0.039844,,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,1
+Outbound SMS,1755403200,0.041161,,owner44@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,3
+Outbound SMS,1755403200,0.089461,,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,2
+Outbound SMS,1755403200,0.046392,,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,1
+Outbound SMS,1755403200,0.049571,,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1755489600,1.579228,531.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1755489600,0.122726,54.0 seconds,owner13@independentsales2.com,asana,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1755489600,1.46716,330.0 seconds,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1755489600,0.48631,421.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755489600,2.466462,546.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755489600,2.537115,595.0 seconds,owner40@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1755489600,2.508136,584.0 seconds,owner42@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1755489600,1.066503,233.0 seconds,user44a@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755489600,0.566485,225.0 seconds,user44b@threepersonteam2.com,notion,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755489600,0.439135,159.0 seconds,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1755489600,0.074812,21.0 seconds,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1755489600,0.20824,82.0 seconds,user49a@scalingbusiness1.com,activecampaign,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1755489600,1.201674,455.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1755489600,0.038851,,owner9@soloventure1.com,web,SoloVenture1,owner9@soloventure1.com,1
+Outbound SMS,1755489600,0.143698,,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,3
+Outbound SMS,1755489600,0.088897,,user44a@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,3
+Outbound Calls,1755576000,0.546119,467.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1755576000,0.695443,246.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1755576000,1.029158,245.0 seconds,owner44@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755576000,0.907111,595.0 seconds,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755576000,0.536188,171.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1755576000,1.250978,251.0 seconds,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1755576000,0.898083,250.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1755576000,0.038033,,owner44@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound SMS,1755576000,0.030099,,user44a@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound SMS,1755576000,0.196241,,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,4
+Outbound Calls,1755662400,0.726718,499.0 seconds,owner10@freelancepro1.com,mobile,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1755662400,0.68762,162.0 seconds,owner10@freelancepro1.com,web,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1755662400,0.702616,247.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1755662400,1.492439,584.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1755662400,0.961982,391.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755662400,1.869835,470.0 seconds,user44b@threepersonteam2.com,slack,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755662400,0.548752,118.0 seconds,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1755662400,0.045495,,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1755748800,1.660607,391.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1755748800,0.558907,202.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1755748800,1.714126,358.0 seconds,owner44@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755748800,0.332509,210.0 seconds,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755748800,0.58209,417.0 seconds,user44b@threepersonteam2.com,slack,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755748800,0.076555,54.0 seconds,user48g@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1755748800,0.051779,,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,3
+Outbound SMS,1755748800,0.10262,,user31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,3
+Outbound SMS,1755748800,0.025243,,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound SMS,1755748800,0.068739,,user46c@mediumteam1.com,nutshell,MediumTeam1,owner46@mediumteam1.com,3
+Outbound SMS,1755748800,0.148559,,owner48@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound SMS,1755748800,0.046757,,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,4
+Outbound SMS,1755748800,0.090472,,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1755835200,1.395742,423.0 seconds,owner44@threepersonteam2.com,salesforce,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755835200,1.288059,396.0 seconds,owner44@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755835200,0.262035,129.0 seconds,owner44@threepersonteam2.com,salesforce,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755835200,0.695562,169.0 seconds,user44a@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755835200,1.205876,286.0 seconds,user44b@threepersonteam2.com,slack,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755835200,0.468005,205.0 seconds,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1755835200,0.031029,,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound SMS,1755835200,0.01648,,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound Calls,1755921600,0.665017,513.0 seconds,owner10@freelancepro1.com,mobile,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1755921600,1.790755,369.0 seconds,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1755921600,1.982147,600.0 seconds,user44b@threepersonteam2.com,slack,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1755921600,1.339911,488.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1755921600,0.041569,,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,1
+Outbound SMS,1755921600,0.032182,,owner44@threepersonteam2.com,salesforce,ThreePersonTeam2,owner44@threepersonteam2.com,1
+Outbound SMS,1755921600,0.069011,,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,3
+Outbound SMS,1755921600,0.141004,,user44b@threepersonteam2.com,notion,ThreePersonTeam2,owner44@threepersonteam2.com,4
+Outbound SMS,1755921600,0.039385,,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,2
+Outbound Calls,1756008000,2.237951,486.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1756008000,1.218948,323.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1756008000,0.510356,190.0 seconds,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1756008000,0.895599,507.0 seconds,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1756008000,1.21385,539.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1756008000,0.136523,,user44b@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,3
+Outbound SMS,1756008000,0.01941,,user47a@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound Calls,1756094400,0.577123,342.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1756094400,0.019613,19.0 seconds,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1756094400,0.820677,405.0 seconds,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1756094400,2.38145,560.0 seconds,owner44@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1756094400,1.784935,479.0 seconds,owner44@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound Calls,1756094400,0.640013,431.0 seconds,user44b@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,
+Outbound SMS,1756094400,0.130185,,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,3
+Outbound SMS,1756094400,0.099391,,user44a@threepersonteam2.com,web,ThreePersonTeam2,owner44@threepersonteam2.com,4
+Outbound SMS,1756094400,0.075535,,user44a@threepersonteam2.com,mobile,ThreePersonTeam2,owner44@threepersonteam2.com,4
+Outbound SMS,1756180800,0.121058,,owner35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,4
+Outbound SMS,1756180800,0.026947,,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,2
+Outbound SMS,1756180800,0.021713,,user46c@mediumteam1.com,nutshell,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1756267200,0.070928,59.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1756267200,0.533328,130.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1756267200,0.738941,509.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1756353600,0.680543,254.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1756353600,0.569145,515.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1756353600,0.415539,89.0 seconds,owner28@individualbiz3.com,mobile,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1756353600,1.499135,552.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1756353600,0.959266,450.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1756353600,0.035461,,user46a@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound SMS,1756353600,0.049267,,user50a@largerteam1.com,asana,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1756440000,2.229048,574.0 seconds,owner17@oneperson2.com,monday,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1756440000,0.956848,226.0 seconds,owner39@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1756440000,0.130755,32.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1756440000,1.236231,401.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1756440000,1.44598,348.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1756440000,2.22343,474.0 seconds,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1756440000,1.01294,344.0 seconds,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1756440000,0.07614,,user50b@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1756526400,1.444881,351.0 seconds,owner19@soloventure2.com,activecampaign,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1756526400,2.202794,557.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1756526400,1.481313,581.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1756526400,0.859307,302.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1756526400,0.981738,258.0 seconds,user48d@growthcompany1.com,insightly,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1756526400,1.931547,491.0 seconds,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1756526400,0.658489,251.0 seconds,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1756612800,2.246948,493.0 seconds,user40a@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1756699200,1.563366,373.0 seconds,owner9@soloventure1.com,web,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1756699200,1.142615,498.0 seconds,owner28@individualbiz3.com,web,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1756699200,1.164212,529.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1756785600,0.144925,38.0 seconds,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1756785600,0.375219,225.0 seconds,owner45@growingstartup1.com,hubspot,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1756785600,0.607315,263.0 seconds,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1756785600,0.843088,241.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1756785600,0.040946,,user41b@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,1
+Outbound Calls,1756872000,0.676514,249.0 seconds,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1756872000,2.314952,517.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1756872000,0.016462,16.0 seconds,user48e@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1756872000,0.971403,250.0 seconds,user48g@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1756872000,1.396758,513.0 seconds,user50d@largerteam1.com,salesmate,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1756872000,0.063836,,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound SMS,1756872000,0.046804,,user50a@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1756958400,0.941922,285.0 seconds,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1756958400,0.804682,481.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1756958400,0.692847,159.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1756958400,0.706073,412.0 seconds,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1756958400,0.496517,157.0 seconds,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1756958400,0.103331,,user46c@mediumteam1.com,nutshell,MediumTeam1,owner46@mediumteam1.com,3
+Outbound Calls,1757044800,0.60251,579.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1757044800,0.572518,212.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1757044800,1.875398,596.0 seconds,owner28@individualbiz3.com,web,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1757044800,1.091118,497.0 seconds,owner39@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1757044800,0.422644,391.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1757044800,0.444816,174.0 seconds,user43b@triostartup2.com,pipedrive,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1757044800,0.325235,68.0 seconds,user43b@triostartup2.com,pipedrive,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1757044800,0.920744,463.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757044800,0.341323,104.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757044800,1.585758,442.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1757044800,0.057065,,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,4
+Outbound SMS,1757044800,0.033495,,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,1
+Outbound SMS,1757044800,0.032754,,user50d@largerteam1.com,salesmate,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1757131200,0.314084,255.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1757131200,1.936104,420.0 seconds,owner4@personalbrand1.com,web,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1757131200,0.420018,265.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1757131200,1.72137,376.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1757131200,0.032733,22.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757131200,1.936211,506.0 seconds,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757131200,0.244388,65.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1757131200,0.540923,308.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1757131200,0.99755,463.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1757131200,0.836658,542.0 seconds,user50b@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1757131200,0.114343,,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,3
+Outbound SMS,1757131200,0.047316,,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1757217600,1.885451,526.0 seconds,owner19@soloventure2.com,activecampaign,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1757217600,0.749344,307.0 seconds,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1757217600,2.264791,468.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757217600,0.899625,230.0 seconds,user49d@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1757217600,0.071112,,user49c@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,4
+Outbound SMS,1757217600,0.050817,,user50g@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1757304000,1.912605,443.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757304000,1.433651,351.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757304000,0.516451,115.0 seconds,owner10@freelancepro1.com,freshsales,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1757304000,0.093602,40.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1757304000,0.081062,48.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1757304000,1.21077,552.0 seconds,user40a@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1757304000,0.97483,201.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1757304000,0.478804,193.0 seconds,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1757304000,0.874709,227.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1757304000,0.028284,,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,2
+Outbound SMS,1757304000,0.050127,,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,3
+Outbound Calls,1757390400,1.669141,479.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757390400,1.037466,560.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757390400,0.644988,564.0 seconds,owner13@independentsales2.com,asana,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1757390400,1.280596,264.0 seconds,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1757390400,0.373623,243.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1757390400,1.298928,377.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1757390400,1.746545,481.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1757390400,0.044344,,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,1
+Outbound Calls,1757476800,0.583533,128.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757476800,1.292055,388.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757476800,0.679089,487.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1757476800,0.498183,151.0 seconds,owner33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1757476800,1.527748,342.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1757476800,0.975755,403.0 seconds,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1757476800,0.235771,92.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1757476800,0.068328,14.0 seconds,user49c@scalingbusiness1.com,salesforce,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1757476800,0.023346,,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,2
+Outbound SMS,1757476800,0.017174,,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,1
+Outbound SMS,1757476800,0.147247,,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,3
+Outbound SMS,1757476800,0.014501,,user45d@growingstartup1.com,klaviyo,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound Calls,1757563200,0.490927,301.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757563200,0.817497,218.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757563200,0.7458,368.0 seconds,owner38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1757563200,0.46108,202.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1757563200,0.123614,,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,3
+Outbound SMS,1757563200,0.095945,,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,4
+Outbound SMS,1757563200,0.086936,,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,2
+Outbound SMS,1757563200,0.040238,,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,1
+Outbound SMS,1757563200,0.034881,,user49d@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1757649600,1.105117,551.0 seconds,owner2@freelanceexpert1.com,mobile,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1757649600,1.570452,333.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757649600,1.660109,367.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757649600,1.233899,267.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757649600,1.481505,462.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757649600,0.096763,22.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1757649600,0.592548,322.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1757649600,0.678469,361.0 seconds,owner49@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1757649600,0.654912,385.0 seconds,user49a@scalingbusiness1.com,airtable,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1757649600,0.132597,,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,3
+Outbound SMS,1757649600,0.166263,,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound Calls,1757736000,0.80568,219.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757736000,0.725863,281.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757736000,0.333108,170.0 seconds,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1757736000,1.182868,283.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1757736000,0.357927,321.0 seconds,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1757736000,0.055209,,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,3
+Outbound SMS,1757736000,0.041344,,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,2
+Outbound SMS,1757736000,0.056294,,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound SMS,1757736000,0.033309,,owner47@expandingcorp1.com,teams,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound SMS,1757736000,0.062251,,user47a@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound Calls,1757822400,0.161321,124.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757822400,0.29305,87.0 seconds,owner9@soloventure1.com,web,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1757822400,0.099217,84.0 seconds,owner29@soloventure3.com,web,SoloVenture3,owner29@soloventure3.com,
+Outbound Calls,1757822400,0.447404,144.0 seconds,owner45@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1757822400,0.802526,261.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1757822400,0.364411,77.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1757822400,0.089168,,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,2
+Outbound SMS,1757822400,0.046708,,owner48@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1757908800,1.506873,563.0 seconds,owner15@selfemployed2.com,mobile,SelfEmployed2,owner15@selfemployed2.com,
+Outbound Calls,1757908800,0.66503,325.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1757908800,1.493115,431.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1757908800,1.915615,536.0 seconds,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1757908800,0.031415,14.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1757908800,0.06678,,owner22@freelanceexpert3.com,mobile,FreelanceExpert3,owner22@freelanceexpert3.com,3
+Outbound SMS,1757908800,0.010669,,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,1
+Outbound SMS,1757908800,0.019896,,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,1
+Outbound SMS,1757908800,0.075669,,user50d@largerteam1.com,salesmate,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1757995200,0.568242,551.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757995200,0.551664,116.0 seconds,owner5@selfemployed1.com,mobile,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757995200,0.612583,288.0 seconds,owner5@selfemployed1.com,web,SelfEmployed1,owner5@selfemployed1.com,
+Outbound Calls,1757995200,0.526881,433.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1757995200,0.636641,418.0 seconds,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1757995200,1.07026,516.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1757995200,0.638004,133.0 seconds,owner39@triostartup1.com,pipedrive,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1757995200,1.652157,476.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1757995200,0.073609,,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,2
+Outbound SMS,1757995200,0.04568,,user40a@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,1
+Outbound SMS,1757995200,0.090625,,owner42@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,4
+Outbound SMS,1757995200,0.151234,,user50g@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1758081600,0.199374,105.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1758081600,0.141937,36.0 seconds,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1758081600,0.46213,130.0 seconds,owner28@individualbiz3.com,mobile,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1758081600,1.885097,491.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1758081600,0.452319,369.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758081600,0.043563,,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,1
+Outbound SMS,1758081600,0.071307,,owner47@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound Calls,1758168000,0.924184,198.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1758168000,1.592214,501.0 seconds,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1758168000,0.641599,181.0 seconds,owner38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1758168000,0.299059,118.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1758168000,0.03978,,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,3
+Outbound SMS,1758168000,0.136502,,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound Calls,1758254400,0.608957,474.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1758254400,0.259142,115.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1758254400,0.312832,254.0 seconds,user35@duoventure1.com,mobile,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1758254400,0.982755,308.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1758254400,1.07549,369.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1758254400,0.645366,216.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758254400,0.064411,,owner45@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound Calls,1758340800,0.502209,312.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1758340800,0.369779,190.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1758340800,0.866947,590.0 seconds,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758340800,0.092897,,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,4
+Outbound SMS,1758340800,0.052077,,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,3
+Outbound Calls,1758427200,0.536773,350.0 seconds,owner22@freelanceexpert3.com,web,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1758427200,1.113348,390.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1758427200,0.604865,172.0 seconds,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1758427200,0.542747,345.0 seconds,user46e@mediumteam1.com,zoho,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1758427200,0.023629,,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,1
+Outbound SMS,1758427200,0.034757,,user48f@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1758513600,1.727166,416.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1758513600,2.119433,500.0 seconds,owner49@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1758513600,0.049475,,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,1
+Outbound SMS,1758513600,0.096466,,user47c@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound SMS,1758513600,0.068458,,user50d@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1758600000,2.387789,485.0 seconds,owner22@freelanceexpert3.com,web,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1758600000,1.310056,563.0 seconds,user31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1758600000,1.284171,275.0 seconds,owner37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1758600000,0.125632,100.0 seconds,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1758600000,1.805135,459.0 seconds,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1758600000,0.367028,166.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1758600000,1.995833,451.0 seconds,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758600000,0.036253,,user47c@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound Calls,1758686400,1.02003,433.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1758686400,0.049779,48.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1758686400,0.80452,495.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1758686400,1.600756,394.0 seconds,user45d@growingstartup1.com,klaviyo,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1758686400,0.043916,,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,1
+Outbound SMS,1758686400,0.031396,,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1758772800,0.202641,95.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1758772800,1.937079,450.0 seconds,user45d@growingstartup1.com,klaviyo,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1758772800,0.199545,166.0 seconds,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1758772800,2.175208,514.0 seconds,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1758772800,0.828978,596.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758772800,0.032633,,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,3
+Outbound SMS,1758772800,0.082144,,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,4
+Outbound SMS,1758772800,0.078415,,user47b@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound Calls,1758859200,1.130962,232.0 seconds,owner4@personalbrand1.com,mobile,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1758859200,0.690708,176.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1758859200,1.425134,593.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1758859200,0.472219,207.0 seconds,owner42@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1758859200,2.368216,523.0 seconds,owner43@triostartup2.com,slack,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1758859200,1.232516,273.0 seconds,user46a@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1758859200,0.798295,194.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1758859200,2.056937,537.0 seconds,user48c@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1758859200,1.127381,594.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1758859200,0.04083,,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1758945600,0.614549,268.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1758945600,2.106133,460.0 seconds,owner22@freelanceexpert3.com,mobile,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1758945600,0.367383,94.0 seconds,owner22@freelanceexpert3.com,activecampaign,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1758945600,1.115027,240.0 seconds,user41b@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1758945600,0.204381,146.0 seconds,user48e@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1759032000,0.478573,114.0 seconds,owner33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1759032000,0.447746,180.0 seconds,user35@duoventure1.com,mobile,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1759032000,2.365532,566.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound SMS,1759032000,0.049224,,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,1
+Outbound SMS,1759032000,0.088159,,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,3
+Outbound Calls,1759118400,2.299295,561.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1759118400,1.401141,556.0 seconds,owner13@independentsales2.com,asana,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1759118400,0.660896,336.0 seconds,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,
+Outbound SMS,1759118400,0.133392,,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,4
+Outbound Calls,1759204800,0.134104,70.0 seconds,owner3@independentsales1.com,web,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1759204800,0.466809,130.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1759204800,0.090275,43.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1759204800,0.122797,56.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1759204800,0.034834,15.0 seconds,user41b@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1759204800,1.545349,377.0 seconds,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1759204800,0.442269,353.0 seconds,user48e@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1759204800,0.079767,,user48g@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound SMS,1759204800,0.088542,,user50b@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1759291200,1.951966,518.0 seconds,owner22@freelanceexpert3.com,web,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1759291200,0.353695,266.0 seconds,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1759291200,0.513528,134.0 seconds,user48a@growthcompany1.com,zoho,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1759291200,1.181466,495.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1759291200,0.472535,318.0 seconds,user49c@scalingbusiness1.com,monday,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1759377600,2.071711,458.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1759377600,0.483594,111.0 seconds,owner21@soloconsultant3.com,mobile,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1759377600,2.311906,521.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1759377600,0.557793,163.0 seconds,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1759377600,0.572738,158.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1759377600,1.626932,393.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1759377600,0.903441,312.0 seconds,user49c@scalingbusiness1.com,zoho,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1759464000,2.597308,589.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1759464000,1.529578,596.0 seconds,owner38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1759464000,1.755023,385.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1759550400,0.250643,82.0 seconds,owner3@independentsales1.com,mobile,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1759550400,1.708768,496.0 seconds,owner7@oneperson1.com,web,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1759550400,0.627924,495.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1759550400,1.515376,340.0 seconds,owner19@soloventure2.com,trello,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1759550400,1.639908,369.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1759550400,0.520049,349.0 seconds,owner37@smallteam2.com,klaviyo,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1759550400,0.383587,118.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1759550400,2.047483,573.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1759550400,0.61974,427.0 seconds,user50b@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1759550400,0.306095,283.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1759550400,0.068111,,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,4
+Outbound SMS,1759550400,0.135532,,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1759636800,0.93493,308.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1759636800,0.63144,503.0 seconds,owner40@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound SMS,1759636800,0.120596,,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,3
+Outbound SMS,1759636800,0.188446,,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,4
+Outbound SMS,1759636800,0.057796,,user47b@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound SMS,1759636800,0.080254,,user48f@growthcompany1.com,freshsales,GrowthCompany1,owner48@growthcompany1.com,3
+Outbound SMS,1759636800,0.030617,,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1759723200,1.035342,291.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1759723200,0.677037,189.0 seconds,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1759723200,0.743676,151.0 seconds,user49a@scalingbusiness1.com,activecampaign,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1759723200,0.404994,276.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1759723200,0.07131,,user39b@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,3
+Outbound SMS,1759723200,0.122712,,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound Calls,1759809600,0.619666,181.0 seconds,owner9@soloventure1.com,klaviyo,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1759809600,1.49833,340.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1759809600,1.527685,326.0 seconds,owner17@oneperson2.com,mobile,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1759809600,0.198689,156.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1759809600,0.57899,192.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1759809600,0.042517,,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,4
+Outbound Calls,1759896000,1.972334,434.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1759896000,2.016131,405.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1759896000,0.582156,485.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1759896000,1.604552,377.0 seconds,user41b@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1759896000,0.471661,126.0 seconds,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1759896000,1.379908,490.0 seconds,user47c@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound SMS,1759896000,0.087287,,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,4
+Outbound Calls,1759982400,0.307541,105.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound SMS,1759982400,0.02839,,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,1
+Outbound SMS,1759982400,0.11938,,owner37@smallteam2.com,mobile,SmallTeam2,owner37@smallteam2.com,4
+Outbound Calls,1760068800,0.170504,81.0 seconds,owner12@freelanceexpert2.com,web,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1760068800,0.699522,251.0 seconds,owner28@individualbiz3.com,mobile,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1760068800,1.904488,457.0 seconds,owner38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1760068800,0.454132,275.0 seconds,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1760068800,0.085044,,owner15@selfemployed2.com,web,SelfEmployed2,owner15@selfemployed2.com,2
+Outbound Calls,1760155200,2.675016,550.0 seconds,owner33@twopersoncorp1.com,asana,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1760155200,1.048495,293.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1760155200,2.742025,597.0 seconds,owner49@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1760155200,1.314283,463.0 seconds,user50d@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1760155200,0.049129,,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound Calls,1760241600,1.47789,355.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1760241600,1.021472,416.0 seconds,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1760241600,0.479411,273.0 seconds,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1760241600,0.646475,237.0 seconds,user45d@growingstartup1.com,zoho,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1760241600,0.25512,79.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1760241600,2.496997,583.0 seconds,user47a@expandingcorp1.com,front,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1760241600,0.843473,431.0 seconds,user48f@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1760241600,0.095563,,user34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,3
+Outbound SMS,1760241600,0.029034,,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound SMS,1760241600,0.070196,,owner48@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,3
+Outbound Calls,1760328000,1.817581,529.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1760328000,1.838033,480.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1760328000,0.176639,128.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1760328000,2.226353,547.0 seconds,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1760328000,0.237778,116.0 seconds,owner45@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1760328000,0.287488,157.0 seconds,user49d@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1760328000,0.131744,,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,4
+Outbound SMS,1760328000,0.047261,,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,2
+Outbound Calls,1760414400,2.738218,553.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1760414400,0.834946,254.0 seconds,owner13@independentsales2.com,engagebay,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1760414400,1.923521,429.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1760414400,0.102648,100.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1760414400,0.064683,,user47a@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound Calls,1760500800,0.623263,596.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1760500800,1.676356,341.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1760500800,0.847269,407.0 seconds,user37@smallteam2.com,mobile,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1760500800,0.480285,239.0 seconds,owner40@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1760500800,1.709066,585.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1760500800,1.332635,269.0 seconds,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1760587200,0.838657,334.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1760587200,1.992114,442.0 seconds,user50g@largerteam1.com,airtable,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1760587200,0.049797,,user39b@triostartup1.com,hubspot,TrioStartup1,owner39@triostartup1.com,2
+Outbound Calls,1760673600,0.941801,389.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1760673600,0.489528,119.0 seconds,owner7@oneperson1.com,monday,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1760673600,0.906098,574.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1760673600,1.637968,471.0 seconds,owner33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1760673600,0.341389,128.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1760673600,0.13837,80.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1760673600,0.026769,,owner4@personalbrand1.com,web,PersonalBrand1,owner4@personalbrand1.com,1
+Outbound SMS,1760673600,0.046074,,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,4
+Outbound SMS,1760673600,0.04358,,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound SMS,1760673600,0.021023,,user50b@largerteam1.com,monday,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1760760000,1.495021,342.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1760760000,1.233346,596.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1760760000,0.079703,57.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1760760000,0.422066,145.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1760760000,1.286675,384.0 seconds,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1760760000,1.238423,329.0 seconds,owner50@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1760760000,0.093482,,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound Calls,1760846400,0.549733,510.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1760846400,2.006231,405.0 seconds,owner13@independentsales2.com,asana,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1760846400,0.685496,546.0 seconds,user35@duoventure1.com,mobile,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1760846400,2.096191,584.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound SMS,1760846400,0.10819,,user39b@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,3
+Outbound SMS,1760846400,0.048193,,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,3
+Outbound Calls,1760932800,0.406687,331.0 seconds,owner4@personalbrand1.com,monday,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1760932800,2.480173,504.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1760932800,0.22488,54.0 seconds,owner22@freelanceexpert3.com,web,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1760932800,0.674754,138.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1760932800,0.327992,126.0 seconds,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1760932800,0.226697,146.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1760932800,0.39905,162.0 seconds,user42b@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1760932800,1.644285,417.0 seconds,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1760932800,0.540001,322.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1760932800,0.841411,374.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1760932800,0.817579,382.0 seconds,user48g@growthcompany1.com,monday,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1760932800,0.03591,,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound Calls,1761019200,0.657257,235.0 seconds,owner1@soloconsultant1.com,insightly,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1761019200,0.269576,124.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1761019200,0.329332,68.0 seconds,owner4@personalbrand1.com,web,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1761019200,0.337053,319.0 seconds,owner10@freelancepro1.com,web,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1761019200,2.482682,580.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761019200,1.19467,558.0 seconds,user49c@scalingbusiness1.com,monday,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1761019200,0.864317,246.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1761019200,0.515651,220.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1761019200,0.069375,,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,3
+Outbound SMS,1761019200,0.129961,,user50d@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1761105600,1.130089,234.0 seconds,owner28@individualbiz3.com,web,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1761105600,0.370487,266.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1761105600,1.535614,447.0 seconds,user46d@mediumteam1.com,asana,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761105600,0.748216,530.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761105600,0.921167,239.0 seconds,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1761105600,1.120849,462.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1761105600,0.083741,,owner45@growingstartup1.com,notion,GrowingStartup1,owner45@growingstartup1.com,2
+Outbound Calls,1761192000,0.42343,131.0 seconds,owner10@freelancepro1.com,web,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1761192000,0.522524,461.0 seconds,owner14@personalbrand2.com,mobile,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1761192000,0.265126,113.0 seconds,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1761192000,0.11735,114.0 seconds,owner40@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1761192000,0.965753,242.0 seconds,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1761192000,0.850279,330.0 seconds,user46b@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1761192000,0.149511,,owner14@personalbrand2.com,web,PersonalBrand2,owner14@personalbrand2.com,3
+Outbound SMS,1761192000,0.016694,,user45a@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound Calls,1761278400,1.065738,226.0 seconds,owner2@freelanceexpert1.com,mobile,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1761278400,1.002285,372.0 seconds,owner3@independentsales1.com,mobile,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1761278400,0.951718,382.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1761278400,1.10659,273.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1761278400,0.301354,126.0 seconds,owner33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1761278400,0.223451,129.0 seconds,owner33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1761278400,2.07746,500.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1761278400,0.274184,86.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1761278400,0.049363,15.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1761278400,0.337475,248.0 seconds,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1761278400,0.475141,247.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761278400,0.209315,208.0 seconds,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761278400,0.885048,519.0 seconds,user48g@growthcompany1.com,monday,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1761278400,0.622676,180.0 seconds,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1761278400,1.610637,357.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1761278400,0.055724,,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,2
+Outbound SMS,1761278400,0.096966,,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,2
+Outbound SMS,1761278400,0.130371,,user48d@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,3
+Outbound SMS,1761278400,0.013964,,user50a@largerteam1.com,asana,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1761364800,0.473309,127.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1761364800,0.285949,74.0 seconds,owner22@freelanceexpert3.com,activecampaign,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1761364800,0.280485,221.0 seconds,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1761364800,0.594118,570.0 seconds,user48a@growthcompany1.com,zoho,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1761364800,0.055662,,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,2
+Outbound SMS,1761364800,0.113776,,user50a@largerteam1.com,asana,LargerTeam1,owner50@largerteam1.com,3
+Outbound Calls,1761451200,0.580264,185.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1761451200,1.218628,412.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1761451200,1.105748,475.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1761451200,0.737614,434.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1761451200,0.190268,,user42b@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,4
+Outbound SMS,1761451200,0.073922,,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,2
+Outbound SMS,1761451200,0.036153,,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound SMS,1761451200,0.081315,,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1761537600,0.197007,61.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1761537600,1.369259,490.0 seconds,owner21@soloconsultant3.com,close,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1761537600,0.116757,59.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1761537600,0.452756,208.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1761537600,0.049505,33.0 seconds,owner45@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1761537600,1.392206,564.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1761537600,0.063402,,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,2
+Outbound Calls,1761624000,2.137704,589.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1761624000,0.889247,459.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1761624000,0.528605,178.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1761624000,0.049445,,owner29@soloventure3.com,front,SoloVenture3,owner29@soloventure3.com,1
+Outbound SMS,1761624000,0.084372,,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,2
+Outbound SMS,1761624000,0.037549,,owner43@triostartup2.com,slack,TrioStartup2,owner43@triostartup2.com,2
+Outbound SMS,1761624000,0.0882,,owner47@expandingcorp1.com,monday,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound Calls,1761710400,2.161895,507.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1761710400,0.338546,213.0 seconds,owner7@oneperson1.com,monday,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1761710400,0.509745,498.0 seconds,owner8@individualbiz1.com,monday,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1761710400,1.400929,365.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1761710400,1.657287,400.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1761710400,1.672273,416.0 seconds,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1761710400,1.96763,505.0 seconds,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1761710400,0.880363,487.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1761710400,0.132943,,user47c@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound SMS,1761710400,0.062435,,owner48@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound Calls,1761796800,0.921965,512.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1761796800,1.440861,447.0 seconds,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,
+Outbound SMS,1761796800,0.14028,,owner7@oneperson1.com,monday,OnePerson1,owner7@oneperson1.com,4
+Outbound SMS,1761796800,0.089348,,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,2
+Outbound Calls,1761883200,0.348212,308.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1761883200,0.950322,302.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1761883200,0.74949,296.0 seconds,user37@smallteam2.com,web,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1761883200,0.075045,21.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1761883200,0.919924,288.0 seconds,owner45@growingstartup1.com,notion,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1761883200,0.169284,,owner3@independentsales1.com,freshsales,IndependentSales1,owner3@independentsales1.com,4
+Outbound Calls,1761969600,1.505999,555.0 seconds,owner9@soloventure1.com,klaviyo,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1761969600,2.348477,520.0 seconds,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1761969600,1.490842,527.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1761969600,0.652502,298.0 seconds,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1761969600,0.698745,575.0 seconds,user41b@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1761969600,0.087138,,owner8@individualbiz1.com,monday,IndividualBiz1,owner8@individualbiz1.com,2
+Outbound SMS,1761969600,0.090981,,owner14@personalbrand2.com,web,PersonalBrand2,owner14@personalbrand2.com,2
+Outbound SMS,1761969600,0.05284,,owner29@soloventure3.com,mobile,SoloVenture3,owner29@soloventure3.com,4
+Outbound SMS,1761969600,0.011394,,user48b@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1762056000,0.966854,418.0 seconds,owner6@soloentrepreneur1.com,web,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1762056000,0.394639,354.0 seconds,owner9@soloventure1.com,klaviyo,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1762056000,1.137068,597.0 seconds,owner17@oneperson2.com,mobile,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1762056000,1.569518,337.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1762056000,1.186234,509.0 seconds,user40a@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1762056000,0.509458,356.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762056000,0.401157,161.0 seconds,user49c@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762056000,0.072012,,owner8@individualbiz1.com,monday,IndividualBiz1,owner8@individualbiz1.com,2
+Outbound SMS,1762056000,0.041472,,owner15@selfemployed2.com,web,SelfEmployed2,owner15@selfemployed2.com,1
+Outbound SMS,1762056000,0.032057,,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,3
+Outbound SMS,1762056000,0.182729,,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,4
+Outbound SMS,1762056000,0.088653,,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,4
+Outbound Calls,1762146000,1.090869,387.0 seconds,owner34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1762146000,1.464945,485.0 seconds,user39b@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1762146000,0.635764,312.0 seconds,owner40@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1762146000,1.793988,563.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1762146000,0.025926,,owner15@selfemployed2.com,mobile,SelfEmployed2,owner15@selfemployed2.com,1
+Outbound SMS,1762146000,0.053145,,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1762232400,0.859437,562.0 seconds,owner3@independentsales1.com,freshsales,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1762232400,0.448738,105.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1762232400,0.265297,149.0 seconds,owner33@twopersoncorp1.com,asana,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1762232400,0.442181,103.0 seconds,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1762232400,0.311414,123.0 seconds,user49a@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762232400,0.17052,,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,4
+Outbound SMS,1762232400,0.181083,,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,4
+Outbound SMS,1762232400,0.025546,,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,1
+Outbound Calls,1762318800,0.674896,288.0 seconds,owner8@individualbiz1.com,monday,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1762318800,1.493718,497.0 seconds,owner19@soloventure2.com,asana,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1762318800,1.594972,354.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1762318800,0.107481,32.0 seconds,user40b@threepersonteam1.com,pipedrive,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1762318800,1.332843,480.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762318800,0.60874,462.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1762318800,2.177381,476.0 seconds,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1762318800,1.644356,472.0 seconds,user49b@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762318800,0.093329,,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,4
+Outbound SMS,1762318800,0.051436,,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,2
+Outbound SMS,1762318800,0.073067,,user41b@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,2
+Outbound Calls,1762405200,0.969524,339.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1762405200,1.517871,402.0 seconds,owner8@individualbiz1.com,web,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1762405200,1.658417,582.0 seconds,owner29@soloventure3.com,web,SoloVenture3,owner29@soloventure3.com,
+Outbound Calls,1762405200,1.518805,439.0 seconds,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1762405200,1.468475,461.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1762405200,1.345532,564.0 seconds,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1762405200,0.299563,202.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762405200,0.455626,271.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1762405200,0.128868,,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,3
+Outbound Calls,1762491600,0.7393,454.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1762491600,0.071441,57.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762491600,0.146881,63.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1762491600,0.07565,,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,2
+Outbound Calls,1762578000,0.374867,131.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1762578000,1.332719,471.0 seconds,user41a@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762578000,0.21913,127.0 seconds,user42a@smallcorp1.com,close,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1762578000,0.087976,71.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1762578000,0.68483,299.0 seconds,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1762578000,1.316148,395.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1762578000,0.84623,313.0 seconds,user49a@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1762578000,1.241939,437.0 seconds,owner50@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1762578000,0.393945,193.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1762578000,0.110027,,owner6@soloentrepreneur1.com,slack,SoloEntrepreneur1,owner6@soloentrepreneur1.com,3
+Outbound SMS,1762578000,0.014774,,user49d@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound Calls,1762664400,0.275381,167.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1762664400,0.268474,56.0 seconds,owner24@personalbrand3.com,web,PersonalBrand3,owner24@personalbrand3.com,
+Outbound Calls,1762664400,0.521855,319.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1762664400,0.613842,149.0 seconds,user36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1762664400,0.22304,112.0 seconds,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,
+Outbound Calls,1762664400,0.199459,149.0 seconds,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1762664400,1.273498,542.0 seconds,user48a@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1762664400,0.619963,375.0 seconds,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762664400,0.058474,,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,2
+Outbound Calls,1762750800,0.522135,397.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1762750800,0.224577,63.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1762750800,0.953468,433.0 seconds,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1762750800,0.088322,35.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762750800,0.857151,437.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1762750800,1.014378,517.0 seconds,owner49@scalingbusiness1.com,hubspot,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762750800,0.043859,,user37@smallteam2.com,intercom,SmallTeam2,owner37@smallteam2.com,1
+Outbound SMS,1762750800,0.090981,,owner47@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound SMS,1762750800,0.031377,,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound SMS,1762750800,0.073558,,user50e@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1762837200,0.502884,109.0 seconds,owner14@personalbrand2.com,engagebay,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1762837200,0.439611,205.0 seconds,owner22@freelanceexpert3.com,web,FreelanceExpert3,owner22@freelanceexpert3.com,
+Outbound Calls,1762837200,1.600201,428.0 seconds,owner33@twopersoncorp1.com,asana,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1762837200,1.989336,544.0 seconds,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1762837200,0.036444,,user31@startupduo1.com,zoho,StartupDuo1,owner31@startupduo1.com,3
+Outbound SMS,1762837200,0.016704,,owner48@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1762923600,0.498192,442.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1762923600,0.466319,264.0 seconds,owner3@independentsales1.com,freshsales,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1762923600,1.365847,312.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1762923600,1.139761,278.0 seconds,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1762923600,1.198648,503.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1762923600,0.211389,116.0 seconds,owner42@smallcorp1.com,activecampaign,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1762923600,1.223846,326.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1762923600,0.946047,491.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1762923600,0.370305,217.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1762923600,1.356145,475.0 seconds,user49a@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1762923600,0.134703,,owner8@individualbiz1.com,monday,IndividualBiz1,owner8@individualbiz1.com,4
+Outbound SMS,1762923600,0.035936,,user47a@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,1
+Outbound Calls,1763010000,0.605369,458.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1763010000,1.104669,433.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763010000,0.174726,112.0 seconds,user34@partnershipbiz1.com,front,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1763010000,0.702256,338.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1763010000,0.067496,21.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763010000,0.035221,16.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1763010000,0.715369,325.0 seconds,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1763010000,2.350818,518.0 seconds,user50f@largerteam1.com,activecampaign,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763010000,0.047664,,owner4@personalbrand1.com,monday,PersonalBrand1,owner4@personalbrand1.com,1
+Outbound SMS,1763010000,0.081518,,owner29@soloventure3.com,mobile,SoloVenture3,owner29@soloventure3.com,2
+Outbound SMS,1763010000,0.061319,,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,3
+Outbound SMS,1763010000,0.070314,,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound SMS,1763010000,0.097141,,user50a@largerteam1.com,asana,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1763096400,0.102206,63.0 seconds,owner18@individualbiz2.com,pipedrive,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1763096400,0.142745,54.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1763096400,0.690947,141.0 seconds,owner25@selfemployed3.com,web,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1763096400,0.123438,105.0 seconds,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763096400,0.901679,322.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1763096400,0.141358,,user40a@threepersonteam1.com,freshsales,ThreePersonTeam1,owner40@threepersonteam1.com,4
+Outbound SMS,1763096400,0.159894,,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,4
+Outbound Calls,1763182800,1.125725,256.0 seconds,owner30@freelancepro3.com,insightly,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1763182800,0.18651,50.0 seconds,owner42@smallcorp1.com,front,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763182800,0.546593,147.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763182800,1.093546,412.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1763182800,1.369371,499.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1763182800,0.283245,125.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763182800,0.159377,,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound SMS,1763182800,0.14022,,owner47@expandingcorp1.com,teams,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound Calls,1763269200,0.302163,62.0 seconds,owner17@oneperson2.com,monday,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1763269200,1.719852,359.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1763269200,0.302059,174.0 seconds,user42a@smallcorp1.com,close,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763269200,0.315571,269.0 seconds,user50a@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1763269200,0.344634,77.0 seconds,user50e@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763269200,0.09623,,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,3
+Outbound SMS,1763269200,0.176736,,user36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,4
+Outbound SMS,1763269200,0.026752,,user50g@largerteam1.com,airtable,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1763355600,0.070247,49.0 seconds,owner6@soloentrepreneur1.com,mobile,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1763355600,0.556593,133.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1763355600,0.190811,39.0 seconds,owner12@freelanceexpert2.com,web,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1763355600,0.640909,580.0 seconds,owner17@oneperson2.com,monday,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1763355600,0.274685,100.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1763355600,1.664488,500.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763355600,1.302819,461.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1763355600,0.914008,466.0 seconds,owner42@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763355600,1.588812,503.0 seconds,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1763355600,1.203768,293.0 seconds,user48b@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1763355600,0.070196,,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,2
+Outbound SMS,1763355600,0.08482,,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,3
+Outbound SMS,1763355600,0.053556,,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,3
+Outbound SMS,1763355600,0.040936,,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,3
+Outbound SMS,1763355600,0.019193,,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,1
+Outbound SMS,1763355600,0.087938,,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound Calls,1763442000,0.64347,460.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1763442000,0.683724,587.0 seconds,owner24@personalbrand3.com,mobile,PersonalBrand3,owner24@personalbrand3.com,
+Outbound Calls,1763442000,0.724166,474.0 seconds,owner29@soloventure3.com,web,SoloVenture3,owner29@soloventure3.com,
+Outbound Calls,1763442000,1.835229,595.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763442000,1.30918,293.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1763442000,1.518882,404.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1763442000,0.372638,81.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1763442000,1.337345,356.0 seconds,user49c@scalingbusiness1.com,zoho,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1763442000,1.168143,299.0 seconds,user50h@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763442000,0.123062,,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,3
+Outbound SMS,1763442000,0.124185,,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,3
+Outbound SMS,1763442000,0.03737,,user47c@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound Calls,1763528400,0.227179,79.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1763528400,0.255127,98.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1763528400,0.695521,510.0 seconds,owner29@soloventure3.com,web,SoloVenture3,owner29@soloventure3.com,
+Outbound Calls,1763528400,0.461384,153.0 seconds,owner30@freelancepro3.com,insightly,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1763528400,0.173207,99.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763528400,0.851197,510.0 seconds,owner33@twopersoncorp1.com,asana,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1763528400,0.54661,194.0 seconds,user47b@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound Calls,1763528400,0.564229,152.0 seconds,user49c@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1763528400,0.055399,,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,3
+Outbound SMS,1763528400,0.021314,,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,1
+Outbound SMS,1763528400,0.144842,,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,3
+Outbound SMS,1763528400,0.085015,,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,3
+Outbound SMS,1763528400,0.054429,,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,4
+Outbound Calls,1763614800,0.443922,120.0 seconds,owner14@personalbrand2.com,mobile,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1763614800,0.161321,67.0 seconds,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1763614800,0.153109,150.0 seconds,owner27@oneperson3.com,engagebay,OnePerson3,owner27@oneperson3.com,
+Outbound Calls,1763614800,0.075673,16.0 seconds,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763614800,2.485352,513.0 seconds,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763614800,1.267343,415.0 seconds,user36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763614800,1.300958,291.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1763614800,0.104965,,user47a@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,4
+Outbound SMS,1763614800,0.040239,,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1763701200,1.82085,520.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1763701200,0.353237,168.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1763701200,0.28545,183.0 seconds,owner31@startupduo1.com,mobile,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1763701200,0.076725,16.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763701200,0.963793,578.0 seconds,owner33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1763701200,0.57619,263.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1763701200,0.166307,102.0 seconds,user36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763701200,2.207931,585.0 seconds,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1763701200,0.208077,112.0 seconds,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1763701200,0.621423,159.0 seconds,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1763701200,0.035347,,owner6@soloentrepreneur1.com,mobile,SoloEntrepreneur1,owner6@soloentrepreneur1.com,2
+Outbound SMS,1763701200,0.112082,,owner10@freelancepro1.com,web,FreelancePro1,owner10@freelancepro1.com,4
+Outbound SMS,1763701200,0.038649,,owner18@individualbiz2.com,web,IndividualBiz2,owner18@individualbiz2.com,3
+Outbound SMS,1763701200,0.141657,,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,3
+Outbound SMS,1763701200,0.10316,,owner45@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,4
+Outbound SMS,1763701200,0.022147,,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1763787600,0.867351,333.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1763787600,0.66109,167.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763787600,0.629188,152.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1763787600,0.158816,65.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1763787600,1.781999,361.0 seconds,owner48@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1763787600,0.586952,217.0 seconds,user48d@growthcompany1.com,insightly,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1763874000,1.103315,348.0 seconds,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1763874000,1.206879,301.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1763874000,0.422001,90.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1763874000,0.783848,292.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763874000,0.913423,538.0 seconds,user32@smallteam1.com,trello,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1763874000,0.801866,545.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1763874000,0.440773,276.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1763874000,1.56632,319.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763874000,0.077097,,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,4
+Outbound Calls,1763960400,1.512404,539.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1763960400,0.665279,183.0 seconds,owner7@oneperson1.com,monday,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1763960400,1.341811,456.0 seconds,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1763960400,0.750651,162.0 seconds,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1763960400,0.893328,330.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1763960400,0.053708,12.0 seconds,owner34@partnershipbiz1.com,mobile,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1763960400,1.199451,485.0 seconds,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1763960400,0.261401,180.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1763960400,0.666429,204.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1763960400,0.3207,88.0 seconds,user50c@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1763960400,0.032319,,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,1
+Outbound Calls,1764046800,0.657877,171.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1764046800,0.418112,133.0 seconds,user36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1764046800,2.029796,443.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1764046800,0.507258,342.0 seconds,user48d@growthcompany1.com,insightly,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1764046800,0.068167,,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,3
+Outbound Calls,1764133200,0.055532,38.0 seconds,owner6@soloentrepreneur1.com,discord,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1764133200,0.171819,170.0 seconds,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1764133200,0.871661,388.0 seconds,owner18@individualbiz2.com,web,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1764133200,0.871955,574.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1764133200,0.691075,497.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764133200,0.921408,500.0 seconds,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1764133200,1.426693,342.0 seconds,user45d@growingstartup1.com,zoho,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1764133200,0.054609,,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,2
+Outbound SMS,1764133200,0.030103,,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,1
+Outbound SMS,1764133200,0.090428,,user49a@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,3
+Outbound SMS,1764133200,0.020961,,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1764219600,0.908218,434.0 seconds,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1764219600,0.679211,165.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764219600,0.276935,219.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764219600,0.780435,543.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764219600,0.511509,224.0 seconds,user46e@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1764219600,0.145595,,user43b@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,3
+Outbound Calls,1764306000,0.13667,110.0 seconds,owner3@independentsales1.com,freshsales,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1764306000,1.561725,456.0 seconds,owner6@soloentrepreneur1.com,mobile,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1764306000,1.041022,382.0 seconds,owner6@soloentrepreneur1.com,web,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1764306000,1.570944,434.0 seconds,owner15@selfemployed2.com,web,SelfEmployed2,owner15@selfemployed2.com,
+Outbound Calls,1764306000,0.594604,210.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764306000,0.841886,352.0 seconds,user45d@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1764306000,2.300905,589.0 seconds,user50f@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1764306000,0.146124,,owner19@soloventure2.com,mobile,SoloVenture2,owner19@soloventure2.com,3
+Outbound SMS,1764306000,0.018664,,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,1
+Outbound SMS,1764306000,0.031536,,user49c@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,1
+Outbound Calls,1764392400,0.363863,174.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1764392400,0.658294,338.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1764392400,0.147727,46.0 seconds,owner36@startupduo2.com,discord,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1764392400,0.716507,576.0 seconds,owner39@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1764392400,0.300582,115.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1764392400,0.04825,,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,2
+Outbound Calls,1764478800,0.687313,459.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1764478800,1.394477,554.0 seconds,owner30@freelancepro3.com,mobile,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1764478800,2.254939,484.0 seconds,owner30@freelancepro3.com,insightly,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1764478800,0.35409,96.0 seconds,owner33@twopersoncorp1.com,asana,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1764478800,0.330968,83.0 seconds,owner42@smallcorp1.com,activecampaign,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1764478800,0.74646,524.0 seconds,user42a@smallcorp1.com,nutshell,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1764478800,0.902564,591.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1764478800,0.043667,,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,3
+Outbound SMS,1764478800,0.145991,,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,4
+Outbound Calls,1764565200,1.61239,368.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1764565200,0.112893,85.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764565200,1.235245,287.0 seconds,owner36@startupduo2.com,discord,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1764565200,0.552917,264.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1764565200,0.090878,,owner25@selfemployed3.com,asana,SelfEmployed3,owner25@selfemployed3.com,3
+Outbound SMS,1764565200,0.011482,,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1764651600,0.385796,172.0 seconds,owner12@freelanceexpert2.com,web,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1764651600,0.356328,162.0 seconds,owner30@freelancepro3.com,front,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1764651600,1.529156,378.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764651600,0.814042,514.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764651600,1.841244,443.0 seconds,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764651600,0.695815,328.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1764651600,0.272944,58.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1764651600,0.953972,431.0 seconds,user46a@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764651600,0.441602,204.0 seconds,user46b@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1764651600,0.095956,,user40b@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,2
+Outbound Calls,1764738000,0.317937,270.0 seconds,owner6@soloentrepreneur1.com,web,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1764738000,0.070734,47.0 seconds,owner13@independentsales2.com,asana,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1764738000,0.719745,312.0 seconds,owner14@personalbrand2.com,engagebay,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1764738000,0.360963,178.0 seconds,owner14@personalbrand2.com,mobile,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1764738000,1.194782,289.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764738000,0.162564,119.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764738000,0.948169,448.0 seconds,user41b@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1764738000,2.641796,589.0 seconds,user46c@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764738000,0.286692,195.0 seconds,user46c@mediumteam1.com,nutshell,MediumTeam1,owner46@mediumteam1.com,
+Outbound SMS,1764738000,0.038287,,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,1
+Outbound SMS,1764738000,0.051585,,user50b@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1764824400,1.587663,494.0 seconds,owner9@soloventure1.com,mobile,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1764824400,2.364558,519.0 seconds,owner24@personalbrand3.com,web,PersonalBrand3,owner24@personalbrand3.com,
+Outbound Calls,1764824400,1.194568,326.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1764824400,1.00261,308.0 seconds,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1764824400,0.249964,80.0 seconds,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1764824400,1.062508,332.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1764824400,1.071607,563.0 seconds,user48c@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1764824400,0.181691,171.0 seconds,user48e@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1764824400,1.54582,512.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1764824400,0.195049,,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,4
+Outbound SMS,1764824400,0.082827,,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,3
+Outbound SMS,1764824400,0.072871,,owner47@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,2
+Outbound Calls,1764910800,1.054395,322.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1764910800,1.764604,521.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1764910800,0.275217,105.0 seconds,user31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1764910800,1.523566,342.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764910800,0.144244,65.0 seconds,user45d@growingstartup1.com,zoho,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1764910800,1.541103,506.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1764910800,0.046425,,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,1
+Outbound SMS,1764910800,0.126893,,user41b@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,4
+Outbound Calls,1764997200,0.97872,263.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1764997200,0.493174,121.0 seconds,user32@smallteam1.com,slack,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1764997200,2.299858,569.0 seconds,owner36@startupduo2.com,zoho,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1764997200,1.564764,337.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1764997200,2.257239,536.0 seconds,owner42@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1764997200,0.567323,375.0 seconds,user42a@smallcorp1.com,mobile,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1764997200,1.403126,464.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1764997200,0.401555,92.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound Calls,1764997200,0.922658,202.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1764997200,0.030219,15.0 seconds,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound Calls,1764997200,0.706474,145.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1764997200,0.049682,,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,2
+Outbound Calls,1765083600,0.522705,384.0 seconds,owner14@personalbrand2.com,monday,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1765083600,1.175313,475.0 seconds,owner14@personalbrand2.com,web,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1765083600,0.452189,245.0 seconds,user31@startupduo1.com,zoho,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1765083600,0.743756,200.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765083600,0.667963,233.0 seconds,owner40@threepersonteam1.com,mobile,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1765083600,1.837101,373.0 seconds,user50b@largerteam1.com,monday,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1765083600,0.042284,,owner3@independentsales1.com,mobile,IndependentSales1,owner3@independentsales1.com,2
+Outbound SMS,1765083600,0.120241,,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,3
+Outbound SMS,1765083600,0.022383,,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,1
+Outbound SMS,1765083600,0.044236,,owner29@soloventure3.com,front,SoloVenture3,owner29@soloventure3.com,3
+Outbound SMS,1765083600,0.033294,,user39b@triostartup1.com,hubspot,TrioStartup1,owner39@triostartup1.com,3
+Outbound SMS,1765083600,0.064161,,owner45@growingstartup1.com,notion,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound SMS,1765083600,0.110089,,user50b@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1765170000,0.485018,112.0 seconds,owner10@freelancepro1.com,mobile,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1765170000,0.262357,123.0 seconds,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1765170000,1.656377,435.0 seconds,owner28@individualbiz3.com,mobile,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1765170000,0.360637,80.0 seconds,owner36@startupduo2.com,discord,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1765170000,0.67629,434.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1765170000,0.112011,,owner7@oneperson1.com,web,OnePerson1,owner7@oneperson1.com,4
+Outbound SMS,1765170000,0.06854,,owner27@oneperson3.com,web,OnePerson3,owner27@oneperson3.com,3
+Outbound SMS,1765170000,0.118185,,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,3
+Outbound SMS,1765170000,0.103293,,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,4
+Outbound SMS,1765170000,0.163253,,user48f@growthcompany1.com,freshsales,GrowthCompany1,owner48@growthcompany1.com,4
+Outbound Calls,1765256400,0.65711,573.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1765256400,0.169316,159.0 seconds,owner31@startupduo1.com,web,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1765256400,1.312797,338.0 seconds,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1765256400,0.047055,,owner3@independentsales1.com,web,IndependentSales1,owner3@independentsales1.com,1
+Outbound SMS,1765256400,0.020738,,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,1
+Outbound SMS,1765256400,0.15229,,owner35@duoventure1.com,airtable,DuoVenture1,owner35@duoventure1.com,4
+Outbound Calls,1765342800,2.532283,562.0 seconds,owner14@personalbrand2.com,web,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1765342800,2.369709,538.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1765342800,0.340453,287.0 seconds,user31@startupduo1.com,monday,StartupDuo1,owner31@startupduo1.com,
+Outbound Calls,1765342800,0.517313,274.0 seconds,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765342800,2.299801,495.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1765342800,0.59904,226.0 seconds,user42a@smallcorp1.com,nutshell,SmallCorp1,owner42@smallcorp1.com,
+Outbound SMS,1765342800,0.191238,,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,4
+Outbound SMS,1765342800,0.06848,,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,3
+Outbound SMS,1765342800,0.028482,,user36@startupduo2.com,mailchimp,StartupDuo2,owner36@startupduo2.com,1
+Outbound SMS,1765342800,0.130889,,user46d@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,3
+Outbound Calls,1765429200,2.111894,579.0 seconds,owner4@personalbrand1.com,mobile,PersonalBrand1,owner4@personalbrand1.com,
+Outbound Calls,1765429200,1.340884,516.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1765429200,1.384115,439.0 seconds,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1765429200,0.588848,243.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765429200,0.12708,115.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765429200,0.365299,193.0 seconds,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1765429200,0.481535,204.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765429200,1.195641,392.0 seconds,user49e@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1765515600,0.842646,399.0 seconds,owner1@soloconsultant1.com,web,SoloConsultant1,owner1@soloconsultant1.com,
+Outbound Calls,1765515600,2.089614,494.0 seconds,owner3@independentsales1.com,web,IndependentSales1,owner3@independentsales1.com,
+Outbound Calls,1765515600,0.172982,150.0 seconds,owner21@soloconsultant3.com,web,SoloConsultant3,owner21@soloconsultant3.com,
+Outbound Calls,1765515600,0.935238,319.0 seconds,owner24@personalbrand3.com,mobile,PersonalBrand3,owner24@personalbrand3.com,
+Outbound Calls,1765515600,1.811664,363.0 seconds,user32@smallteam1.com,slack,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765515600,0.498092,178.0 seconds,user36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1765515600,0.839827,236.0 seconds,owner38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound SMS,1765515600,0.096559,,user41b@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,2
+Outbound SMS,1765515600,0.025177,,user50b@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1765602000,0.760577,379.0 seconds,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765602000,0.142035,97.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765602000,0.291433,115.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1765602000,0.783254,224.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1765602000,1.943294,546.0 seconds,owner45@growingstartup1.com,slack,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1765602000,0.089292,,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,3
+Outbound Calls,1765688400,1.423863,526.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1765688400,0.130957,57.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1765688400,0.848077,552.0 seconds,owner30@freelancepro3.com,notion,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1765688400,0.717961,148.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1765688400,1.106185,460.0 seconds,user34@partnershipbiz1.com,web,PartnershipBiz1,owner34@partnershipbiz1.com,
+Outbound Calls,1765688400,0.493706,176.0 seconds,user38@twopersoncorp2.com,web,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound SMS,1765688400,0.031195,,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,2
+Outbound Calls,1765774800,0.780802,179.0 seconds,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1765774800,0.08825,63.0 seconds,owner27@oneperson3.com,web,OnePerson3,owner27@oneperson3.com,
+Outbound Calls,1765774800,0.205092,67.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1765774800,1.981382,545.0 seconds,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1765774800,0.38564,240.0 seconds,user46a@mediumteam1.com,teams,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765774800,0.307635,109.0 seconds,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765774800,0.295318,64.0 seconds,user47c@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound SMS,1765774800,0.130754,,user46f@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,4
+Outbound SMS,1765774800,0.050101,,user47c@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound Calls,1765861200,0.854074,329.0 seconds,owner2@freelanceexpert1.com,pipedrive,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1765861200,2.475228,571.0 seconds,owner7@oneperson1.com,mobile,OnePerson1,owner7@oneperson1.com,
+Outbound Calls,1765861200,1.070176,241.0 seconds,owner14@personalbrand2.com,engagebay,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1765861200,0.407289,138.0 seconds,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1765861200,0.800667,214.0 seconds,owner46@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765861200,0.730685,556.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765861200,1.106038,343.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1765861200,0.351485,272.0 seconds,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1765861200,0.058668,,owner14@personalbrand2.com,make,PersonalBrand2,owner14@personalbrand2.com,4
+Outbound SMS,1765861200,0.118878,,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1765947600,0.513099,141.0 seconds,owner2@freelanceexpert1.com,web,FreelanceExpert1,owner2@freelanceexpert1.com,
+Outbound Calls,1765947600,0.847384,236.0 seconds,owner14@personalbrand2.com,mobile,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1765947600,0.068611,28.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1765947600,0.649236,566.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1765947600,0.138687,132.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1765947600,0.21121,116.0 seconds,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1765947600,0.709009,280.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1765947600,0.500275,163.0 seconds,owner40@threepersonteam1.com,teams,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1765947600,0.960829,400.0 seconds,user43a@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1765947600,0.683312,445.0 seconds,user43a@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1765947600,1.015819,419.0 seconds,user50c@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1765947600,0.057334,,user48g@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,3
+Outbound SMS,1765947600,0.166823,,user50g@largerteam1.com,airtable,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1766034000,0.469826,328.0 seconds,owner9@soloventure1.com,klaviyo,SoloVenture1,owner9@soloventure1.com,
+Outbound Calls,1766034000,1.501227,356.0 seconds,owner14@personalbrand2.com,make,PersonalBrand2,owner14@personalbrand2.com,
+Outbound Calls,1766034000,1.005392,530.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1766034000,1.538529,426.0 seconds,owner27@oneperson3.com,engagebay,OnePerson3,owner27@oneperson3.com,
+Outbound Calls,1766034000,0.094864,51.0 seconds,user36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1766034000,1.057403,467.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1766034000,1.191904,556.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1766034000,0.141921,77.0 seconds,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1766034000,2.04248,474.0 seconds,user50h@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1766034000,0.128411,,user36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,3
+Outbound SMS,1766034000,0.037826,,user48a@growthcompany1.com,web,GrowthCompany1,owner48@growthcompany1.com,1
+Outbound Calls,1766120400,1.884696,408.0 seconds,owner8@individualbiz1.com,mobile,IndividualBiz1,owner8@individualbiz1.com,
+Outbound Calls,1766120400,1.225524,298.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766120400,0.435359,299.0 seconds,user40b@threepersonteam1.com,web,ThreePersonTeam1,owner40@threepersonteam1.com,
+Outbound Calls,1766120400,0.631641,204.0 seconds,user45c@growingstartup1.com,zapier,GrowingStartup1,owner45@growingstartup1.com,
+Outbound SMS,1766120400,0.043101,,owner8@individualbiz1.com,web,IndividualBiz1,owner8@individualbiz1.com,4
+Outbound SMS,1766120400,0.143439,,owner18@individualbiz2.com,web,IndividualBiz2,owner18@individualbiz2.com,3
+Outbound SMS,1766120400,0.0454,,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,3
+Outbound SMS,1766120400,0.092292,,owner41@trioventure1.com,web,TrioVenture1,owner41@trioventure1.com,3
+Outbound SMS,1766120400,0.023984,,user50i@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,1
+Outbound Calls,1766206800,0.356837,135.0 seconds,owner17@oneperson2.com,mobile,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1766206800,1.087911,556.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766206800,0.666429,590.0 seconds,owner23@independentsales3.com,mobile,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1766206800,0.634692,573.0 seconds,user32@smallteam1.com,slack,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766206800,0.597173,211.0 seconds,owner33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1766206800,0.750379,182.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1766206800,0.546643,239.0 seconds,owner36@startupduo2.com,discord,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1766206800,0.302882,253.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1766206800,2.073564,495.0 seconds,user46d@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1766206800,0.987247,388.0 seconds,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound Calls,1766293200,0.208873,65.0 seconds,owner10@freelancepro1.com,web,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1766293200,2.030903,427.0 seconds,owner15@selfemployed2.com,mobile,SelfEmployed2,owner15@selfemployed2.com,
+Outbound Calls,1766293200,1.842196,434.0 seconds,owner43@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1766293200,1.422038,516.0 seconds,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1766293200,0.118416,99.0 seconds,user46c@mediumteam1.com,nutshell,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1766293200,0.543333,425.0 seconds,owner47@expandingcorp1.com,mobile,ExpandingCorp1,owner47@expandingcorp1.com,
+Outbound SMS,1766293200,0.149143,,owner29@soloventure3.com,mobile,SoloVenture3,owner29@soloventure3.com,3
+Outbound SMS,1766293200,0.019439,,user45a@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,1
+Outbound Calls,1766379600,0.384301,206.0 seconds,owner10@freelancepro1.com,freshsales,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1766379600,0.450873,218.0 seconds,owner12@freelanceexpert2.com,web,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1766379600,0.798466,288.0 seconds,owner18@individualbiz2.com,web,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1766379600,0.529022,520.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1766379600,1.210207,298.0 seconds,user42a@smallcorp1.com,close,SmallCorp1,owner42@smallcorp1.com,
+Outbound SMS,1766379600,0.055168,,owner24@personalbrand3.com,web,PersonalBrand3,owner24@personalbrand3.com,2
+Outbound SMS,1766379600,0.070977,,owner36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,2
+Outbound Calls,1766466000,2.304644,536.0 seconds,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,
+Outbound Calls,1766466000,1.433306,386.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766466000,2.198435,592.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1766466000,0.1934,116.0 seconds,user45d@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1766466000,1.217458,299.0 seconds,user46f@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1766466000,0.829311,443.0 seconds,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1766466000,0.046071,,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,2
+Outbound Calls,1766552400,1.697141,349.0 seconds,user32@smallteam1.com,trello,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766552400,1.054085,472.0 seconds,user36@startupduo2.com,web,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1766552400,0.475058,189.0 seconds,owner38@twopersoncorp2.com,discord,TwoPersonCorp2,owner38@twopersoncorp2.com,
+Outbound Calls,1766552400,2.433826,497.0 seconds,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1766552400,0.092879,,owner42@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,2
+Outbound Calls,1766638800,1.204977,241.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766638800,1.510716,526.0 seconds,owner28@individualbiz3.com,web,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1766638800,0.396601,97.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766638800,0.178908,55.0 seconds,user32@smallteam1.com,slack,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766638800,1.627375,572.0 seconds,user42a@smallcorp1.com,web,SmallCorp1,owner42@smallcorp1.com,
+Outbound Calls,1766638800,1.931825,395.0 seconds,owner43@triostartup2.com,mobile,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1766638800,2.610972,543.0 seconds,user49b@scalingbusiness1.com,web,ScalingBusiness1,owner49@scalingbusiness1.com,
+Outbound SMS,1766638800,0.062575,,user49e@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,3
+Outbound Calls,1766725200,1.315827,369.0 seconds,owner6@soloentrepreneur1.com,mobile,SoloEntrepreneur1,owner6@soloentrepreneur1.com,
+Outbound Calls,1766725200,2.371192,587.0 seconds,owner19@soloventure2.com,asana,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1766725200,0.31039,258.0 seconds,owner27@oneperson3.com,engagebay,OnePerson3,owner27@oneperson3.com,
+Outbound Calls,1766725200,0.837399,415.0 seconds,owner29@soloventure3.com,web,SoloVenture3,owner29@soloventure3.com,
+Outbound Calls,1766725200,0.284631,183.0 seconds,owner32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766725200,2.043214,506.0 seconds,user39a@triostartup1.com,mobile,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1766725200,2.532413,570.0 seconds,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1766725200,0.046384,,owner11@soloconsultant2.com,web,SoloConsultant2,owner11@soloconsultant2.com,2
+Outbound SMS,1766725200,0.14211,,owner12@freelanceexpert2.com,mobile,FreelanceExpert2,owner12@freelanceexpert2.com,3
+Outbound SMS,1766725200,0.066684,,user50i@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1766811600,0.354216,251.0 seconds,owner19@soloventure2.com,web,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1766811600,0.746824,175.0 seconds,owner20@freelancepro2.com,mobile,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766811600,0.915263,225.0 seconds,owner24@personalbrand3.com,mobile,PersonalBrand3,owner24@personalbrand3.com,
+Outbound Calls,1766811600,0.811049,521.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766811600,1.740724,572.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1766811600,0.252687,99.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1766811600,2.249075,545.0 seconds,user39a@triostartup1.com,web,TrioStartup1,owner39@triostartup1.com,
+Outbound Calls,1766811600,0.201484,101.0 seconds,user45c@growingstartup1.com,mobile,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1766811600,0.122,106.0 seconds,user45d@growingstartup1.com,zoho,GrowingStartup1,owner45@growingstartup1.com,
+Outbound Calls,1766811600,0.786789,193.0 seconds,user46c@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1766811600,1.308297,351.0 seconds,user48c@growthcompany1.com,mobile,GrowthCompany1,owner48@growthcompany1.com,
+Outbound SMS,1766811600,0.068565,,owner13@independentsales2.com,mobile,IndependentSales2,owner13@independentsales2.com,2
+Outbound SMS,1766811600,0.090269,,owner32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,4
+Outbound SMS,1766811600,0.027759,,user38@twopersoncorp2.com,mobile,TwoPersonCorp2,owner38@twopersoncorp2.com,2
+Outbound SMS,1766811600,0.079301,,user47b@expandingcorp1.com,web,ExpandingCorp1,owner47@expandingcorp1.com,3
+Outbound Calls,1766898000,0.310768,112.0 seconds,owner13@independentsales2.com,web,IndependentSales2,owner13@independentsales2.com,
+Outbound Calls,1766898000,0.624652,457.0 seconds,owner20@freelancepro2.com,web,FreelancePro2,owner20@freelancepro2.com,
+Outbound Calls,1766898000,0.68557,156.0 seconds,owner23@independentsales3.com,web,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1766898000,0.176382,139.0 seconds,owner23@independentsales3.com,freshsales,IndependentSales3,owner23@independentsales3.com,
+Outbound Calls,1766898000,0.448735,121.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766898000,0.355064,353.0 seconds,owner36@startupduo2.com,zoho,StartupDuo2,owner36@startupduo2.com,
+Outbound SMS,1766898000,0.017854,,owner50@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,1
+Outbound SMS,1766898000,0.093271,,user50f@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,2
+Outbound Calls,1766984400,0.105396,56.0 seconds,owner18@individualbiz2.com,mobile,IndividualBiz2,owner18@individualbiz2.com,
+Outbound Calls,1766984400,0.052321,13.0 seconds,owner30@freelancepro3.com,web,FreelancePro3,owner30@freelancepro3.com,
+Outbound Calls,1766984400,1.91936,458.0 seconds,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766984400,1.0185,361.0 seconds,user32@smallteam1.com,mobile,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766984400,0.171682,78.0 seconds,user32@smallteam1.com,trello,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1766984400,1.164528,284.0 seconds,user33@twopersoncorp1.com,web,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1766984400,0.219741,161.0 seconds,user36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1766984400,1.341212,552.0 seconds,user37@smallteam2.com,mobile,SmallTeam2,owner37@smallteam2.com,
+Outbound SMS,1766984400,0.084425,,owner24@personalbrand3.com,mobile,PersonalBrand3,owner24@personalbrand3.com,3
+Outbound SMS,1766984400,0.166385,,user41b@trioventure1.com,salesforce,TrioVenture1,owner41@trioventure1.com,4
+Outbound SMS,1766984400,0.098383,,owner46@mediumteam1.com,mobile,MediumTeam1,owner46@mediumteam1.com,2
+Outbound Calls,1767070800,0.453492,384.0 seconds,owner25@selfemployed3.com,mobile,SelfEmployed3,owner25@selfemployed3.com,
+Outbound Calls,1767070800,1.163359,466.0 seconds,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,
+Outbound Calls,1767070800,1.085299,434.0 seconds,user33@twopersoncorp1.com,mobile,TwoPersonCorp1,owner33@twopersoncorp1.com,
+Outbound Calls,1767070800,0.464212,345.0 seconds,owner36@startupduo2.com,mobile,StartupDuo2,owner36@startupduo2.com,
+Outbound Calls,1767070800,2.290278,477.0 seconds,user41a@trioventure1.com,notion,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1767070800,0.688732,473.0 seconds,user41a@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound Calls,1767070800,0.682663,245.0 seconds,user43b@triostartup2.com,web,TrioStartup2,owner43@triostartup2.com,
+Outbound Calls,1767070800,0.857622,220.0 seconds,user46e@mediumteam1.com,web,MediumTeam1,owner46@mediumteam1.com,
+Outbound Calls,1767070800,2.255357,580.0 seconds,user50b@largerteam1.com,mobile,LargerTeam1,owner50@largerteam1.com,
+Outbound SMS,1767070800,0.134753,,user32@smallteam1.com,web,SmallTeam1,owner32@smallteam1.com,4
+Outbound SMS,1767070800,0.056487,,user45c@growingstartup1.com,web,GrowingStartup1,owner45@growingstartup1.com,3
+Outbound SMS,1767070800,0.0687,,user49d@scalingbusiness1.com,mobile,ScalingBusiness1,owner49@scalingbusiness1.com,4
+Outbound SMS,1767070800,0.18082,,user50c@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,4
+Outbound SMS,1767070800,0.166563,,user50g@largerteam1.com,web,LargerTeam1,owner50@largerteam1.com,4
+Outbound Calls,1767157200,1.089262,461.0 seconds,owner10@freelancepro1.com,mobile,FreelancePro1,owner10@freelancepro1.com,
+Outbound Calls,1767157200,2.013237,422.0 seconds,owner11@soloconsultant2.com,mobile,SoloConsultant2,owner11@soloconsultant2.com,
+Outbound Calls,1767157200,0.979155,529.0 seconds,owner17@oneperson2.com,web,OnePerson2,owner17@oneperson2.com,
+Outbound Calls,1767157200,2.179014,470.0 seconds,owner19@soloventure2.com,activecampaign,SoloVenture2,owner19@soloventure2.com,
+Outbound Calls,1767157200,0.848036,301.0 seconds,owner28@individualbiz3.com,activecampaign,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1767157200,0.650882,189.0 seconds,owner28@individualbiz3.com,salesmate,IndividualBiz3,owner28@individualbiz3.com,
+Outbound Calls,1767157200,1.46117,518.0 seconds,user35@duoventure1.com,web,DuoVenture1,owner35@duoventure1.com,
+Outbound Calls,1767157200,0.261501,105.0 seconds,owner41@trioventure1.com,mobile,TrioVenture1,owner41@trioventure1.com,
+Outbound SMS,1767157200,0.109606,,owner6@soloentrepreneur1.com,mobile,SoloEntrepreneur1,owner6@soloentrepreneur1.com,3
